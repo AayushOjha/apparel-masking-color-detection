@@ -1,8 +1,10 @@
-import cv2
-import numpy as np
-from tensorflow.keras.models import load_model
-import tensorflow as tf
 import sys
+
+import numpy as np
+import cv2
+
+import tensorflow as tf
+from tensorflow.keras.models import load_model
 from tensorflow.compat.v1 import ConfigProto
 from tensorflow.compat.v1 import InteractiveSession
 

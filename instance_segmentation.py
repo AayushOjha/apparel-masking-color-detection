@@ -1,7 +1,8 @@
-import cv2
-import numpy as np
 # import os
 import sys
+
+import cv2
+import numpy as np
 
 img_file = sys.argv[1]
 save_dir = sys.argv[2]

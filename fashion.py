@@ -1,16 +1,16 @@
-import cv2
-import numpy as np
 # import os
 import sys
+
+import cv2
+import numpy as np
 import pandas as pd
 # import matplotlib.pyplot as plt
+
 # import keras
 # from keras.models import Sequential
 # from keras.layers import Conv2D
-
 # from keras.layers import MaxPooling2D
 # from keras.layers import Dense
-
 # from keras.layers import Flatten,Dropout
 from keras.models import model_from_json
 
@@ -21,7 +21,7 @@ directory = sys.argv[2]
 def predictor(img_file):
     img = cv2.imread(img_file)
     resize = cv2.resize(img, (64, 64))
-    # resize = np.expand_dims(resize,axis=0)
+    # resize = np.expand_dims(resize, axis=0)
 
     img_fin = np.reshape(resize, [1, 64, 64, 3])
     json_file = open('model/binaryfas10.json', 'r')
@@ -58,7 +58,7 @@ def nn(img_file):
 
     img = cv2.imread(img_file)
     img = cv2.resize(img, (image_width, image_height))
-    # seg = image(image,reader.x1[predict],reader.y1[predict],reader.x2[predict],reader.y2[predict],reader.i[predict])
+    # seg = img(img, reader.x1[predict], reader.y1[predict], reader.x2[predict], reader.y2[predict], reader.i[predict])
 
     mask = np.zeros(img.shape[:2], np.uint8)
 
