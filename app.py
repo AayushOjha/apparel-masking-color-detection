@@ -1,4 +1,5 @@
 import sys
+import time
 
 import numpy as np
 import cv2
@@ -43,6 +44,8 @@ class fashion_tools(object):
 
 
 if __name__ == '__main__':
+    t0 = time.time()
+
     config = ConfigProto()
     config.gpu_options.allow_growth = True
     session = InteractiveSession(config=config)
@@ -56,4 +59,6 @@ if __name__ == '__main__':
     output_img = api.get_dress(stack=False)
 
     cv2.imwrite(output_path, output_img)
-    print('result has been saved in {}!'.format(output_path))
+
+    delta_t = time.time() - t0
+    print('result has been processed in {} seconds and saved in {}!'.format(delta_t, output_path))
