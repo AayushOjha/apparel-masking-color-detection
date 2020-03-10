@@ -47,7 +47,7 @@ if __name__ == '__main__':
     config.gpu_options.allow_growth = True
     session = InteractiveSession(config=config)
 
-    pretrained_model = load_model("topwears.h5")
+    pretrained_model = load_model("model/topwears.h5")
 
     input_img = sys.argv[1]
     output_path = sys.argv[2]
