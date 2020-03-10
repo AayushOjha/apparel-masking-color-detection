@@ -53,7 +53,7 @@ if __name__ == '__main__':
     output_path = sys.argv[2]
 
     api = fashion_tools(input_img, pretrained_model)
-    output_img = api.get_dress(True)
+    output_img = api.get_dress(stack=False)
 
     cv2.imwrite(output_path, output_img)
     print('result has been saved in {}!'.format(output_path))
