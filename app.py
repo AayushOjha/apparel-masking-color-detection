@@ -56,7 +56,7 @@ if __name__ == '__main__':
     output_path = sys.argv[2]
 
     api = fashion_tools(input_img, pretrained_model)
-    output_img = api.get_dress(stack=False)
+    output_img = api.get_dress(stack=True)
 
     cv2.imwrite(output_path, output_img)
 
