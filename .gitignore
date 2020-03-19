@@ -133,3 +133,6 @@ topwears.h5
 
 # Mac OSX files
 .DS_Store
+
+# Test files
+test.*
