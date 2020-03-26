@@ -136,3 +136,6 @@ topwears.h5
 
 # Temporary files
 tmp/
+
+# Data feed tests
+data_feed/
