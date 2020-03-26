@@ -1,0 +1,803 @@
+{
+    "#00543d": [
+        "deepgreen"
+    ],
+    "#002a29": [
+        "verydarkbluishgreen"
+    ],
+    "#002e3b": [
+        "verydarkgreenishblue"
+    ],
+    "#004958": [
+        "darkgreenishblue"
+    ],
+    "#004b49": [
+        "darkbluishgreen"
+    ],
+    "#00443f": [
+        "deepbluishgreen"
+    ],
+    "#1b4d3e": [
+        "darkgreen"
+    ],
+    "#2b3d26": [
+        "darkolivegreen"
+    ],
+    "#173620": [
+        "verydarkyellowishgreen"
+    ],
+    "#003118": [
+        "verydeepyellowishgreen"
+    ],
+    "#1c352d": [
+        "verydarkgreen"
+    ],
+    "#363527": [
+        "darkgrayisholive"
+    ],
+    "#31362b": [
+        "darkgrayisholivegreen"
+    ],
+    "#3e322c": [
+        "darkgrayishbrown"
+    ],
+    "#25241d": [
+        "oliveblack"
+    ],
+    "#28201c": [
+        "brownishblack"
+    ],
+    "#3b3121": [
+        "darkolivebrown"
+    ],
+    "#403d21": [
+        "darkolive"
+    ],
+    "#483c32": [
+        "darkgrayishyellowishbrown"
+    ],
+    "#3a4b47": [
+        "darkgrayishgreen"
+    ],
+    "#36454f": [
+        "darkgrayishblue"
+    ],
+    "#1a2421": [
+        "blackishgreen"
+    ],
+    "#1e2321": [
+        "greenishblack"
+    ],
+    "#202428": [
+        "bluishblack"
+    ],
+    "#202830": [
+        "blackishblue"
+    ],
+    "#222222": [
+        "black"
+    ],
+    "#242124": [
+        "purplishblack"
+    ],
+    "#282022": [
+        "reddishblack"
+    ],
+    "#00304e": [
+        "darkblue"
+    ],
+    "#00416a": [
+        "deepblue"
+    ],
+    "#4c516d": [
+        "grayishpurplishblue"
+    ],
+    "#0067a5": [
+        "strongblue"
+    ],
+    "#007791": [
+        "stronggreenishblue"
+    ],
+    "#367588": [
+        "moderategreenishblue"
+    ],
+    "#2e8495": [
+        "deepgreenishblue"
+    ],
+    "#0085a1": [
+        "vividgreenishblue"
+    ],
+    "#436b95": [
+        "moderateblue"
+    ],
+    "#5e716a": [
+        "grayishgreen"
+    ],
+    "#536878": [
+        "grayishblue"
+    ],
+    "#51585e": [
+        "darkbluishgray"
+    ],
+    "#555555": [
+        "darkgray"
+    ],
+    "#5d555b": [
+        "darkpurplishgray"
+    ],
+    "#4e5755": [
+        "darkgreenishgray"
+    ],
+    "#5b504f": [
+        "brownishgray"
+    ],
+    "#5c504f": [
+        "darkreddishgray"
+    ],
+    "#57554c": [
+        "olivegray"
+    ],
+    "#635147": [
+        "grayishbrown"
+    ],
+    "#515744": [
+        "grayisholivegreen"
+    ],
+    "#5b5842": [
+        "grayisholive"
+    ],
+    "#7e6d5a": [
+        "grayishyellowishbrown"
+    ],
+    "#355e3b": [
+        "darkyellowishgreen"
+    ],
+    "#317873": [
+        "moderatebluishgreen"
+    ],
+    "#008882": [
+        "vividbluishgreen"
+    ],
+    "#007a74": [
+        "strongbluishgreen"
+    ],
+    "#3b7861": [
+        "moderategreen"
+    ],
+    "#007959": [
+        "stronggreen"
+    ],
+    "#00a1c2": [
+        "vividblue"
+    ],
+    "#239eba": [
+        "brilliantgreenishblue"
+    ],
+    "#4997d0": [
+        "brilliantblue"
+    ],
+    "#70a3cc": [
+        "lightblue"
+    ],
+    "#66aabc": [
+        "lightgreenishblue"
+    ],
+    "#a1caf1": [
+        "verylightblue"
+    ],
+    "#b3bce2": [
+        "verylightpurplishblue"
+    ],
+    "#96ded1": [
+        "verylightbluishgreen"
+    ],
+    "#8ed1b2": [
+        "verylightgreen"
+    ],
+    "#c7e6d7": [
+        "verypalegreen"
+    ],
+    "#dfede8": [
+        "greenishwhite"
+    ],
+    "#e8e3e5": [
+        "purplishwhite"
+    ],
+    "#e9e9ed": [
+        "bluishwhite"
+    ],
+    "#f2f3f4": [
+        "white"
+    ],
+    "#f0ead6": [
+        "yellowishwhite"
+    ],
+    "#ecd5c5": [
+        "paleyellowishpink"
+    ],
+    "#eae3e1": [
+        "pinkishwhite"
+    ],
+    "#b2beb5": [
+        "lightgreenishgray"
+    ],
+    "#bfb9bd": [
+        "lightpurplishgray"
+    ],
+    "#c0c8e1": [
+        "verypalepurplishblue"
+    ],
+    "#c4c3dd": [
+        "verypaleviolet"
+    ],
+    "#bcd4e6": [
+        "verypaleblue"
+    ],
+    "#b4bcc0": [
+        "lightbluishgray"
+    ],
+    "#9cd1dc": [
+        "verylightgreenishblue"
+    ],
+    "#8da399": [
+        "palegreen"
+    ],
+    "#91a3b0": [
+        "paleblue"
+    ],
+    "#c1b6b3": [
+        "pinkishgray"
+    ],
+    "#b9b8b5": [
+        "lightgray"
+    ],
+    "#c2ac99": [
+        "brownishpink"
+    ],
+    "#bfb8a5": [
+        "yellowishgray"
+    ],
+    "#ae9b82": [
+        "lightgrayishyellowishbrown"
+    ],
+    "#8f9779": [
+        "grayishyellowgreen"
+    ],
+    "#8a8776": [
+        "lightolivegray"
+    ],
+    "#8c8767": [
+        "lightgrayisholive"
+    ],
+    "#958070": [
+        "lightgrayishbrown"
+    ],
+    "#8e8279": [
+        "lightbrownishgray"
+    ],
+    "#8f817f": [
+        "reddishgray"
+    ],
+    "#8b8589": [
+        "purplishgray"
+    ],
+    "#81878b": [
+        "bluishgray"
+    ],
+    "#848482": [
+        "mediumgray"
+    ],
+    "#8c92ac": [
+        "palepurplishblue"
+    ],
+    "#7d8984": [
+        "greenishgray"
+    ],
+    "#6aab8e": [
+        "lightgreen"
+    ],
+    "#66ada4": [
+        "lightbluishgreen"
+    ],
+    "#00a693": [
+        "brilliantbluishgreen"
+    ],
+    "#3eb489": [
+        "brilliantgreen"
+    ],
+    "#44944a": [
+        "strongyellowishgreen"
+    ],
+    "#27a64c": [
+        "vividyellowishgreen"
+    ],
+    "#93c592": [
+        "lightyellowishgreen"
+    ],
+    "#679267": [
+        "moderateyellowishgreen"
+    ],
+    "#8a9a5b": [
+        "moderateyellowgreen"
+    ],
+    "#98943e": [
+        "darkgreenishyellow"
+    ],
+    "#ab9144": [
+        "darkyellow"
+    ],
+    "#a18f60": [
+        "darkgrayishyellow"
+    ],
+    "#c2b280": [
+        "grayishyellow"
+    ],
+    "#b9b57d": [
+        "grayishgreenishyellow"
+    ],
+    "#c9ae5d": [
+        "moderateyellow"
+    ],
+    "#b9b459": [
+        "moderategreenishyellow"
+    ],
+    "#c9dc89": [
+        "lightyellowgreen"
+    ],
+    "#fad6a5": [
+        "paleorangeyellow"
+    ],
+    "#dadfb7": [
+        "paleyellowgreen"
+    ],
+    "#f3e5ab": [
+        "paleyellow"
+    ],
+    "#f8de7e": [
+        "lightyellow"
+    ],
+    "#ebe8a4": [
+        "palegreenishyellow"
+    ],
+    "#b6e5af": [
+        "verylightyellowishgreen"
+    ],
+    "#83d37d": [
+        "brilliantyellowishgreen"
+    ],
+    "#bdda57": [
+        "brilliantyellowgreen"
+    ],
+    "#e9e450": [
+        "brilliantgreenishyellow"
+    ],
+    "#eae679": [
+        "lightgreenishyellow"
+    ],
+    "#fada5e": [
+        "brilliantyellow"
+    ],
+    "#f3c300": [
+        "vividyellow"
+    ],
+    "#dcd300": [
+        "vividgreenishyellow"
+    ],
+    "#beb72e": [
+        "stronggreenishyellow"
+    ],
+    "#d4af37": [
+        "strongyellow"
+    ],
+    "#af8d13": [
+        "deepyellow"
+    ],
+    "#9b9400": [
+        "deepgreenishyellow"
+    ],
+    "#8db600": [
+        "vividyellowgreen"
+    ],
+    "#7e9f2e": [
+        "strongyellowgreen"
+    ],
+    "#008856": [
+        "vividgreen"
+    ],
+    "#467129": [
+        "deepyellowgreen"
+    ],
+    "#00622d": [
+        "deepyellowishgreen"
+    ],
+    "#4a5d23": [
+        "moderateolivegreen"
+    ],
+    "#665d1e": [
+        "moderateolive"
+    ],
+    "#867e36": [
+        "lightolive"
+    ],
+    "#6c541e": [
+        "moderateolivebrown"
+    ],
+    "#232f00": [
+        "deepolivegreen"
+    ],
+    "#404f00": [
+        "strongolivegreen"
+    ],
+    "#967117": [
+        "lightolivebrown"
+    ],
+    "#be6516": [
+        "deeporange"
+    ],
+    "#56070c": [
+        "deepreddishbrown"
+    ],
+    "#593319": [
+        "deepbrown"
+    ],
+    "#654522": [
+        "deepyellowishbrown"
+    ],
+    "#6f4e37": [
+        "moderatebrown"
+    ],
+    "#826644": [
+        "moderateyellowishbrown"
+    ],
+    "#996515": [
+        "strongyellowishbrown"
+    ],
+    "#80461b": [
+        "strongbrown"
+    ],
+    "#ae6938": [
+        "brownishorange"
+    ],
+    "#9e4732": [
+        "darkreddishorange"
+    ],
+    "#bc3f4a": [
+        "strongred"
+    ],
+    "#aa381e": [
+        "deepreddishorange"
+    ],
+    "#be0032": [
+        "vividred"
+    ],
+    "#882d17": [
+        "strongreddishbrown"
+    ],
+    "#e25822": [
+        "vividreddishorange"
+    ],
+    "#e66721": [
+        "deepyellowishpink"
+    ],
+    "#c98500": [
+        "deeporangeyellow"
+    ],
+    "#eaa221": [
+        "strongorangeyellow"
+    ],
+    "#f6a600": [
+        "vividorangeyellow"
+    ],
+    "#ed872d": [
+        "strongorange"
+    ],
+    "#fd943f": [
+        "brilliantorange"
+    ],
+    "#f38400": [
+        "vividorange"
+    ],
+    "#ffc14f": [
+        "brilliantorangeyellow"
+    ],
+    "#fbc97f": [
+        "lightorangeyellow"
+    ],
+    "#fab57f": [
+        "lightorange"
+    ],
+    "#ffb7a5": [
+        "vividyellowishpink"
+    ],
+    "#f99379": [
+        "strongyellowishpink"
+    ],
+    "#d99058": [
+        "moderateorange"
+    ],
+    "#e3a857": [
+        "moderateorangeyellow"
+    ],
+    "#c19a6b": [
+        "lightyellowishbrown"
+    ],
+    "#a67b5b": [
+        "lightbrown"
+    ],
+    "#be8a3d": [
+        "darkorangeyellow"
+    ],
+    "#cb6d51": [
+        "moderatereddishorange"
+    ],
+    "#b4745e": [
+        "grayishreddishorange"
+    ],
+    "#d9603b": [
+        "strongreddishorange"
+    ],
+    "#de6fa1": [
+        "deeppurplishpink"
+    ],
+    "#e68fac": [
+        "strongpurplishpink"
+    ],
+    "#e4717a": [
+        "deeppink"
+    ],
+    "#c48379": [
+        "darkyellowishpink"
+    ],
+    "#c08081": [
+        "darkpink"
+    ],
+    "#b784a7": [
+        "lightreddishpurple"
+    ],
+    "#c17e91": [
+        "darkpurplishpink"
+    ],
+    "#aa8a9e": [
+        "palereddishpurple"
+    ],
+    "#9690ab": [
+        "paleviolet"
+    ],
+    "#977f73": [
+        "lightgrayishreddishbrown"
+    ],
+    "#a87c6d": [
+        "lightreddishbrown"
+    ],
+    "#af868e": [
+        "lightgrayishpurplishred"
+    ],
+    "#ad8884": [
+        "lightgrayishred"
+    ],
+    "#d9a6a9": [
+        "moderateyellowishpink"
+    ],
+    "#dea5a4": [
+        "moderatepink"
+    ],
+    "#c7ada3": [
+        "grayishyellowishpink"
+    ],
+    "#c4aead": [
+        "grayishpink"
+    ],
+    "#c3a6b1": [
+        "grayishpurplishpink"
+    ],
+    "#aa98a9": [
+        "palepurple"
+    ],
+    "#d597ae": [
+        "moderatepurplishpink"
+    ],
+    "#ea9399": [
+        "strongpink"
+    ],
+    "#ffb5ba": [
+        "vividpink"
+    ],
+    "#ffc8d6": [
+        "brilliantpurplishpink"
+    ],
+    "#efbbcc": [
+        "lightpurplishpink"
+    ],
+    "#d5badb": [
+        "verylightpurple"
+    ],
+    "#d6cadd": [
+        "verypalepurple"
+    ],
+    "#e8ccd7": [
+        "palepurplishpink"
+    ],
+    "#f4c2c2": [
+        "lightyellowishpink"
+    ],
+    "#ead8d7": [
+        "palepink"
+    ],
+    "#f9ccca": [
+        "lightpink"
+    ],
+    "#dcd0ff": [
+        "verylightviolet"
+    ],
+    "#d399e6": [
+        "brilliantpurple"
+    ],
+    "#b695c0": [
+        "lightpurple"
+    ],
+    "#8791bf": [
+        "lightpurplishblue"
+    ],
+    "#8c82b6": [
+        "lightviolet"
+    ],
+    "#9065ca": [
+        "vividviolet"
+    ],
+    "#9a4eae": [
+        "vividpurple"
+    ],
+    "#9e4f88": [
+        "strongreddishpurple"
+    ],
+    "#ce4676": [
+        "vividpurplishred"
+    ],
+    "#ab4e52": [
+        "moderatered"
+    ],
+    "#a8516e": [
+        "moderatepurplishred"
+    ],
+    "#b3446c": [
+        "strongpurplishred"
+    ],
+    "#915c83": [
+        "moderatereddishpurple"
+    ],
+    "#915f6d": [
+        "grayishpurplishred"
+    ],
+    "#79443b": [
+        "moderatereddishbrown"
+    ],
+    "#905d5d": [
+        "grayishred"
+    ],
+    "#674c47": [
+        "grayishreddishbrown"
+    ],
+    "#796878": [
+        "grayishpurple"
+    ],
+    "#836479": [
+        "grayishreddishpurple"
+    ],
+    "#6c79b8": [
+        "brilliantpurplishblue"
+    ],
+    "#7e73b8": [
+        "brilliantviolet"
+    ],
+    "#86608e": [
+        "moderatepurple"
+    ],
+    "#875692": [
+        "strongpurple"
+    ],
+    "#604e97": [
+        "strongviolet"
+    ],
+    "#545aa7": [
+        "strongpurplishblue"
+    ],
+    "#4e5180": [
+        "moderatepurplishblue"
+    ],
+    "#604e81": [
+        "moderateviolet"
+    ],
+    "#554c69": [
+        "grayishviolet"
+    ],
+    "#602f6b": [
+        "deeppurple"
+    ],
+    "#54194e": [
+        "verydeepreddishpurple"
+    ],
+    "#401a4c": [
+        "verydeeppurple"
+    ],
+    "#32174d": [
+        "deepviolet"
+    ],
+    "#30267a": [
+        "vividpurplishblue"
+    ],
+    "#272458": [
+        "deeppurplishblue"
+    ],
+    "#2f2140": [
+        "darkviolet"
+    ],
+    "#252440": [
+        "darkpurplishblue"
+    ],
+    "#291e29": [
+        "blackishpurple"
+    ],
+    "#2e1d21": [
+        "blackishred"
+    ],
+    "#38152c": [
+        "verydarkpurplishred"
+    ],
+    "#341731": [
+        "verydarkreddishpurple"
+    ],
+    "#301934": [
+        "verydarkpurple"
+    ],
+    "#5d3954": [
+        "darkreddishpurple"
+    ],
+    "#563c5c": [
+        "darkpurple"
+    ],
+    "#50404d": [
+        "darkgrayishpurple"
+    ],
+    "#543d3f": [
+        "darkgrayishred"
+    ],
+    "#4b3621": [
+        "darkyellowishbrown"
+    ],
+    "#422518": [
+        "darkbrown"
+    ],
+    "#43302e": [
+        "darkgrayishreddishbrown"
+    ],
+    "#3e1d1e": [
+        "darkreddishbrown"
+    ],
+    "#722f37": [
+        "darkred"
+    ],
+    "#673147": [
+        "darkpurplishred"
+    ],
+    "#54133b": [
+        "verydeeppurplishred"
+    ],
+    "#3f1728": [
+        "verydarkred"
+    ],
+    "#78184a": [
+        "deeppurplishred"
+    ],
+    "#841b2d": [
+        "deepred"
+    ],
+    "#5c0923": [
+        "verydeepred"
+    ],
+    "#702963": [
+        "deepreddishpurple"
+    ],
+    "#870074": [
+        "vividreddishpurple"
+    ]
+}
