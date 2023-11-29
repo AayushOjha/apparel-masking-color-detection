@@ -34,7 +34,7 @@ def predictor(img_file):
 
     # prediction = loaded_model.predict_classes(img_fin)
     prediction = loaded_model.predict(img_fin)
-    prediction = np.argmax(predictions, axis=1)
+    prediction = np.argmax(prediction, axis=1)
 
 
     # prediction = np.squeeze(prediction, axis=1)
